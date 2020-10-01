@@ -1,6 +1,6 @@
 ---
 path: "/post-one"
-date: "2020-09-20"
+date: "2020-09-10"
 title: "My First Gatsby Post"
 author: "Joel Ileti"
 ---
